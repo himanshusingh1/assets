@@ -24,7 +24,7 @@
     "show_product_recommendations": true,
     "show_including_taxes": true,
     "image_size": "square",
-    "image_content_mode": "fill",
+    "image_content_mode": "fit",
     "pay_later_options": [
       {
         "min_amount": [

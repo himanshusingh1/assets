@@ -23,7 +23,7 @@
   "product_page_settings": {
     "show_product_recommendations": true,
     "show_including_taxes": true,
-    "image_size": "potrait",
+    "image_size": "landscape",
     "image_content_mode": "fill",
     "pay_later_options": [
       {

@@ -10,6 +10,9 @@
     "faq_page": {
       "load_url": "https://test-himanshu2.myshopify.com/pages/contact"
     },
+    "shopify_inbox": {
+      "load_url": "https://test-himanshu2.myshopify.com/?chat"
+    },
     "whatsapp": {
       "number": "+919501975529",
       "prefilled_text": "Hello I loved 🥰 your App Can we connect!"

@@ -70,10 +70,10 @@
       "source": "growave"
     },
     {
-      "api_key": "96c034799d56bf8cf421bc0f43ebfd02",
-      "secret_key": "54b275435fda2afbcd684586927a5822",
+      "api_key": "7ef5ea9c77f54b2a92281d54df2d3948",
+      "secret_key": "e87eead105174d1396853fed888264e6",
       "integration": "loyalty",
-      "source": "loyaltyLion"
+      "source": "gameball"
     },
     {
       "integration": "sizeChart",

@@ -67,6 +67,12 @@
       "source": "growave"
     },
     {
+      "api_key": "96c034799d56bf8cf421bc0f43ebfd02",
+      "secret_key": "54b275435fda2afbcd684586927a5822",
+      "integration": "loyalty",
+      "source": "loyaltyLion"
+    },
+    {
       "integration": "sizeChart",
       "source": "kiwi"
     },

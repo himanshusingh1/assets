@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732381596622",
+    "project_id": "styleyn-ga4",
+    "storage_bucket": "styleyn-ga4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732381596622:android:7787b99a7680e3236eb99f",
+        "android_client_info": {
+          "package_name": "co.shopney.styleyn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIMr2bQ1VjUEWMfqCgePl7T3b5qPbYb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

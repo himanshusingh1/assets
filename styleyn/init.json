@@ -9,8 +9,8 @@
     "app_bundle_id_ios": "co.shopney.styleyn",
     "app_bundle_id_android": "co.shopney.styleyn",
     "theme_id": "Theme3",
-    "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/styleynn/GoogleService-Info.plist",
-    "google_json_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/styleynn/google-services.json",
+    "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/styleyn/GoogleService-Info.plist",
+    "google_json_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/styleyn/google-services.json",
     "app_name": "Styleyn"
   },
   "force_update": {

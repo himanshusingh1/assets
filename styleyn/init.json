@@ -11,7 +11,8 @@
     "theme_id": "Theme3",
     "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/styleyn/GoogleService-Info.plist",
     "google_json_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/styleyn/google-services.json",
-    "app_name": "Styleyn"
+    "app_name": "Styleyn",
+    "merchant_id": "98183e63-ca61-4043-abe8-66390cf576cf"
   },
   "force_update": {
     "ios": {

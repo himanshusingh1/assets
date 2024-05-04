@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377676973690",
+    "project_id": "omniful-mobile-app",
+    "storage_bucket": "omniful-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377676973690:android:73ddc20700aa39919b5dc3",
+        "android_client_info": {
+          "package_name": "com.omniful.app.WoodzMart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAzkK912svw5LrKZ8HbVBbNLBUrwL0glw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

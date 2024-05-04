@@ -1,0 +1,26 @@
+{
+  "shopify_settings": {
+    "store_domain": "f40a96-2b.myshopify.com",
+    "shopify_api_key": "c26b57fcb29790230d9b15880031d80d"
+  },
+  "app_settings": {
+    "app_icon_ios": "https://raw.githubusercontent.com/himanshusingh1/assets/main/woodzmart/Icon-1024.png",
+    "app_icon_android": "https://raw.githubusercontent.com/himanshusingh1/assets/main/woodzmart/Icon-1024.png",
+    "app_bundle_id_ios": "com.omniful.app.WoodzMart",
+    "app_bundle_id_android": "com.omniful.app.WoodzMart",
+    "theme_id": "Theme1",
+    "google_plist_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/woodzmart/GoogleService-Info.plist",
+    "google_json_url": "https://raw.githubusercontent.com/himanshusingh1/assets/main/woodzmart/google-services.json",
+    "app_name": "Woodz Mart"
+  },
+  "force_update": {
+    "ios": {
+      "force": false,
+      "minimum_version": "1.0.0"
+    },
+    "android": {
+      "force": false,
+      "minimum_version": "1.0.0"
+    }
+  }
+}

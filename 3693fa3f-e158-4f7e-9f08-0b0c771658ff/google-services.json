@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883878496756",
+    "project_id": "shoppa-7c124",
+    "storage_bucket": "shoppa-7c124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883878496756:android:02242497cd1851cd7111a1",
+        "android_client_info": {
+          "package_name": "com.omniful.app.Shoppa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtul-EK57for2UYGs4YWy77qZOoF-DmYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

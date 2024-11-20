@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyBzLEFEHq8TuHggPoWuW2a9NgfaxbYb5s8</string>
+	<string>AIzaSyARQoHB0nzGzMyPxdY_iuwzQKspCgMHqg4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>732938841958</string>
+	<string>786811070935</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>theme.omniful.tulsi</string>
+	<string>theme.omniful.sakura</string>
 	<key>PROJECT_ID</key>
-	<string>mapple-demo-app</string>
+	<string>app-builder-1bc34</string>
 	<key>STORAGE_BUCKET</key>
-	<string>mapple-demo-app.appspot.com</string>
+	<string>app-builder-1bc34.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:732938841958:ios:7527290b9c0b2bdcd0e2a7</string>
+	<string>1:786811070935:ios:8294bd18eb19df11bf0392</string>
 </dict>
 </plist>
